@@ -14,7 +14,7 @@
         "@metaplex-foundation/solita": "^0.20.1",
         "@solana/spl-token": "^0.4.8",
         "@solana/web3.js": "1.97.0",
-        "axios": "^1.7.7",
+        "axios": "^1.15.2",
         "bn.js": "5.2.1",
         "bs58": "^6.0.0",
         "dotenv": "^17.3.1",
